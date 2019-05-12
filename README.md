@@ -21,3 +21,5 @@ The datasets of GDP per capita and other indicators of interest were analyzed us
 
 ## References and further readings
 - https://www.gapminder.org/data/
+- http://oecdinsights.org/2016/10/06/gdp-per-capita-households-material-well-being/
+- https://www.investopedia.com/terms/p/per-capita-gdp.asp
